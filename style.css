@@ -1,0 +1,43 @@
+.header{
+
+    display: flex;
+    background-image : url("Background-Image.jpg");
+    font-size : 20px;
+    color : #3939afe5;
+    justify-content: space-evenly;
+    font-family : sans-serif;
+    border-radius:  15px; 
+    margin-bottom : 20px;
+}
+
+.aboutMeMenu{
+
+    display: flex;
+    font-size: 15px;
+    padding-top : 10px;
+    padding-right : 10px;
+}
+
+.followMeMenu{
+
+    display : flex;
+    font-size : 15px;
+    padding-top : 10px;
+    padding-left : 50px;
+}
+
+.origami{
+
+    display: flex;
+    justify-content: flex-start;
+    text-align : left;
+    flex-wrap : wrap;
+    font-size : 15px;
+    font-family : Arial;
+    border : inset;
+    border-radius : 20px ;
+    border-color : #3545d9;
+    padding-top : 50px;
+    padding-right : 10px;
+    margin-bottom : 25px;
+}
